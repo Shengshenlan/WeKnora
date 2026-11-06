@@ -1,0 +1,23 @@
+internal/agent/tools/param_cast_string_test.go
+  s_b60a7908e6db1d::t_7f27e763db2f95 1-93
+internal/agent/tools/param_cast.go
+  s_b60a7908e6db1d::t_001376531002c2 188-190
+  s_b60a7908e6db1d::t_342798eeef2a88 4,52-66,100-114
+  s_b60a7908e6db1d::t_8d86e08c369923 115-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "19336f199c5f070aa759f9e824da6c4dd7c01552",
+  "prompts": {},
+  "sessions": {
+    "s_b60a7908e6db1d": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1af71-86b0-72d2-aefe-41a30e6fdad5",
+        "model": "DeepSeek-V4.1-Flash-think"
+      },
+      "human_author": "Lan Zhu <zhulan@changtianyun.com>"
+    }
+  }
+}
