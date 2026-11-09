@@ -1,0 +1,69 @@
+internal/infrastructure/docparser/paddleocr_vl_headers_test.go
+  s_b60a7908e6db1d::t_88d9bb7bd2f217 1-44,49-128
+  s_b60a7908e6db1d::t_a8053aa04b1f48 45-48
+internal/types/tenant.go
+  s_b60a7908e6db1d::t_944f61186b8d11 350-353,484-489
+  s_b60a7908e6db1d::t_a68636d1717a82 490
+docs/swagger.json
+  s_b60a7908e6db1d::t_05d52a253aaa1a 33952-33958
+docs/swagger.yaml
+  s_b60a7908e6db1d::t_6ce17f20f186b3 7138-7145
+internal/types/config_redaction.go
+  s_b60a7908e6db1d::t_a1d38aba0154ba 187
+  s_b60a7908e6db1d::t_bce4a2f4d4a449 46
+  s_b60a7908e6db1d::t_60f7d743da24d5 42-45,47-50,184-186
+internal/handler/tenant_parser_ssrf_test.go
+  s_b60a7908e6db1d::t_d848f0fd1125d8 12,20,26-40
+frontend/src/i18n/locales/zh-CN.ts
+  s_b60a7908e6db1d::t_b459a9abcb8cd4 8079-8083
+frontend/src/i18n/locales/en-US.ts
+  s_b60a7908e6db1d::t_a69bd6db82d32d 2439-2443
+internal/infrastructure/docparser/paddleocr_vl_converter.go
+  s_b60a7908e6db1d::t_c0258aa7e59082 33-35,45,164,274-277,291-296
+  s_b60a7908e6db1d::t_792634876aae60 301-303
+internal/handler/tenant.go
+  s_b60a7908e6db1d::t_e22de0219d595c 1493,1959
+  s_b60a7908e6db1d::t_56f0fe548e5ee0 1963-1965
+internal/types/paddleocr_headers.go
+  s_b60a7908e6db1d::t_7c61a0a56baa35 1-80,111-150
+  s_b60a7908e6db1d::t_2c235843ac0f6f 81-110
+internal/infrastructure/docparser/paddleocr_vl_headers.go
+  s_b60a7908e6db1d::t_1275a7146e43a0 1-59
+frontend/src/i18n/locales/zh-TW.ts
+  s_b60a7908e6db1d::t_39d8bff45aec3d 8079-8083
+docs/docs.go
+  s_b60a7908e6db1d::t_58e1c2d3ee4931 33959-33965
+frontend/src/i18n/locales/ru-RU.ts
+  s_b60a7908e6db1d::t_879aded62c269b 8078-8082
+internal/infrastructure/docparser/engines.go
+  s_b60a7908e6db1d::t_fe31555c6272a5 263
+frontend/src/i18n/locales/ja-JP.ts
+  s_b60a7908e6db1d::t_607bab845df231 2439-2443
+frontend/src/i18n/locales/ko-KR.ts
+  s_b60a7908e6db1d::t_ba6b81ef26732d 8078-8082
+frontend/src/views/settings/ParserEngineSettings.vue
+  s_b60a7908e6db1d::t_d912784ab1f585 381-414,524-543
+  s_b60a7908e6db1d::t_29e74811cbb49c 544
+  s_b60a7908e6db1d::t_f8b0201a90b29c 678-682,685,721
+  s_b60a7908e6db1d::t_f07066af157389 1014-1048
+frontend/src/api/system/index.ts
+  s_b60a7908e6db1d::t_01682b49e1a65f 144-145
+internal/types/paddleocr_headers_test.go
+  s_b60a7908e6db1d::t_a98c3c11018a07 1-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "551f5b03838b43295595a708a56ed7c53bbb9006",
+  "prompts": {},
+  "sessions": {
+    "s_b60a7908e6db1d": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1af71-86b0-72d2-aefe-41a30e6fdad5",
+        "model": "DeepSeek-V4.1-Flash-think"
+      },
+      "human_author": "Lan Zhu <zhulan@changtianyun.com>"
+    }
+  }
+}
