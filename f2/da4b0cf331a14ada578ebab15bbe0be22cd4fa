@@ -1,0 +1,19 @@
+internal/infrastructure/docparser/paddleocr_vl_headers_test.go
+  s_b60a7908e6db1d::t_a8053aa04b1f48 45-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f2da4b0cf331a14ada578ebab15bbe0be22cd4fa",
+  "prompts": {},
+  "sessions": {
+    "s_b60a7908e6db1d": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1af71-86b0-72d2-aefe-41a30e6fdad5",
+        "model": "DeepSeek-V4.1-Flash-think"
+      },
+      "human_author": "Lan Zhu <zhulan@changtianyun.com>"
+    }
+  }
+}
